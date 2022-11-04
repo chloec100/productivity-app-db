@@ -1,2 +1,2 @@
 # productivity-app-db
-Sample code for starting with Firebase
+Sample code for starting with Firebase.
